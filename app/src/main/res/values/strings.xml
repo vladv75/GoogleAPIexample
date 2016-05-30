@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GoogleAPIexample</string>
+    <string name="title_activity_maps">GoogleMap</string>
+
+    <!-- Google Maps menu -->
+    <string name="menu_map_mode">Map Mode</string>
+    <string name="menu_map_mode_normal">Normal</string>
+    <string name="menu_map_mode_satellite">Satellite</string>
+    <string name="menu_map_mode_terrain">Terrain</string>
+    <string name="menu_map_traffic">Traffic</string>
+    <string name="menu_map_location">My Location</string>
+    <string name="menu_map_point_new">Add Point</string>
+
+    <string name="etLatitude">Широта</string>
+    <string name="etLongitude">Долгота</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="addMarkerText">Добавить маркер</string>
+    <string name="latitudeString">Широта: %s</string>
+    <string name="longitudeString">Долгота: %s</string>
+    <string name="addressString">Адрес: %s</string>
+    <string name="menu_delete_markers">Delete markers</string>
+</resources>
