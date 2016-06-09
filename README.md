@@ -1,7 +1,7 @@
 Google Maps Android API v2 Example
 ===================================
 
-Samples demonstrating how to use 
+Sample demonstrating how to use 
 [Google Maps Android API v2](https://developers.google.com/maps/documentation/android/).
 
 ##Screenshots
